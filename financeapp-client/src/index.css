@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+  background-color: #f2f2f2;
+}
+
+.customnav {
+	background-color: #4285f4;
+	color: #ffffff;
+	margin-bottom: 50px;
+}
+
+.font_thin {
+	font-weight: 300
+}
+
+.padding_top {
+	padding-top: 50px;
+}
+
+.sm_divider {
+	height: 15px;
+}
+
+.table_title {
+	color: #808080;
+	font-size: 14px;
+}
+
+.dataform {
+	background-color: #fafafa;
+}
+
+.ct_margin_right {
+	margin-right: 10px;
+}
